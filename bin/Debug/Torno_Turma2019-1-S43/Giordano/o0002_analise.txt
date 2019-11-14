@@ -1,0 +1,73 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC o0002.txt realizado em 7/6/2019 às 23:14:17
+
+
+
+Aviso: Como foi utilizado um dos ciclos de desbaste (G71, G72 ou G73), recomenda-se utilizar o ciclo para acabamento - G70
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N45 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N75 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N115 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N145 - Comando T:
+   OK
+
+
+Bloco N195 - Comando T:
+   OK
+
+
+Bloco N226 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N231 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N240 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+

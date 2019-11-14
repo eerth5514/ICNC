@@ -1,0 +1,93 @@
+Bloco N15:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+Bloco N20:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+Bloco N570 - Comando G74 e S18
+    Aviso: Usinagem sendo realizada com rotação muito baixa - Verificar!
+
+Bloco N570 - Comando G74
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Aviso: Recomenda-se fortemente utilizar compensação do raio da ferramenta - Verificar (G41 ou G42)
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+
+
+Bloco N10 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N170 - Comando T:
+   Aviso: Usinagem sendo realizada com rotação muito baixa - Verificar! (G97 e S)
+
+    Aviso: Usinagem sendo realizada com avanço muito alto - Verificar! (G99 e F)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N290 - Comando T:
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N440 - Comando T:
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N490 - Comando T:
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N540 - Comando T:
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N590 - Comando T:
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N80 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+   Erro: O ciclo G71 requer o parâmetro G71 depois da chamada do mesmo
+
+    Erro: Ciclo de desbaste, sendo assim, deixar sobrematerial para o acabamento posterior (U e W não podem ser 0)
+
+
+Bloco N200 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N850 - Comando M30:
+   Erro: Desligar rotação da árvore ao final do programa (M05)
+

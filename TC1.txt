@@ -1,0 +1,84 @@
+(TCNC01)
+(Encaixe 01)
+(Primeira fase)
+(THIAGO D., THIAGO P.)
+(17/10/2018)
+[billet x52 z31
+n05 g28
+n10 t0101 m06
+n15 g99 g96 F0.25 S350
+n20 g00 x53 z0.5 m03 m08
+n21 g50 s5000
+(faceamento)
+n25 g00 x53 z2.5
+n30 g94 x-0.25 z3 f10
+n35 z2
+n36 z1.5
+n37 z1
+n38 z0.5
+n39 z0
+n40 g00 g28
+(desbaste)
+n45 t0707 m06
+n50 g99 g96 f0.1 s250
+n55 g00 x52 z00
+n60 g71 u0 r0.5
+n65 g71 x52 p70 q90 u0 w0.1 f1
+n70 g00 x40.2 f0.6
+n75 g01 s250 z-0.5
+n80 x46 z-2.9
+n85 z-9.1
+n90 x52 z-12
+n95 g28 u0 w0
+(acabamento)
+n96 t0101 m06
+n97 g99 g96 f0.25 s350
+n98 g00 x45 z1
+n99 g70 p70 q90
+n100 g28 g00
+(abertura do canal com bedame)
+n101 t0505 m06
+n105 g99 g96 f0.25 s350
+n110 g00 x49 z-7.1
+n115 g75 x44 z-7.1 p300 q200 f1
+n120 g00 x53 z-7.1
+n125 g28 u0 w0
+(rosca)
+n130 t0303 m06
+n135 g00 x53 z-13 g99 s20 m03
+n140 g76 p050060 q10 r0.05
+n145 g76 x50 z-20 p92 q50 f1.5
+n150 g28 u0 w0
+(cetro)
+n151 t0808 m06
+n152 g00 x00 z2 g99 s200 m03
+n153 g81 z-3 f0.2
+n154 g00 g28
+(furacao)
+n155 t0202 m06
+n156 g99 g97 s1000
+n160 g00 x00 z1
+n165 g74 r0
+n170 g74 x0 z-20 p1000 q10000 r0
+n175 g28 u0 w0
+(desbaste interno)
+n180 t0606 m06
+n181 g96 g99 f0.1 s200
+n185 g00 x12 z0
+n190 g71 u0.5 r0.1
+n195 g71 p200 q235 u-0.1 w0.15 f1
+n200 g00 x35.7 f1
+n205 g01
+n210 g02 x34.2 z-2 r2
+n215 g01 z-5.5
+n220 g03 x33.1 z-6.9 r2
+n225 g01 x22.9 z-12
+n230 g02 x20 z-15.5 r5
+n235 g01 z-16
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+
+Bloco N003 - Comando T:
+   Erro: Desligar a compensação do raio da ferramenta antes da troca da ferramenta (G40 antes do G28)
+
+
+
+Bloco N095 - Comando T:
+   Erro: Desligar a compensação do raio da ferramenta antes da troca da ferramenta (G40 antes do G28)
+
+
+
+Bloco N135 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+
+
+Bloco N160 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N195 - Comando T:
+   Aviso: Usinagem sendo realizada com avanço muito baixo - Verificar! (G98 e F)
+
+
+
+Bloco N220 - Comando T:
+   Aviso: Usinagem sendo realizada com avanço muito baixo - Verificar! (G98 e F)
+
+
+
+Bloco N290 - Comando T:
+   Aviso: Usinagem sendo realizada com avanço muito baixo - Verificar! (G98 e F)
+
+
+
+Bloco N365 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N025 - Comando G71:
+   Aviso: Recomenda-se definir as coordenadas X e Z do ponto de início do ciclo G71 antes da chamada do mesmo
+
+
+
+Bloco N375 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N175 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N138 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N145 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N426 - Comando M00:
+   Aviso: Afastar a ferramenta o suficiente da peça para permitir o acesso do operador (G28)
+
+   Aviso: Desligar árvore antes da parada programada (M05)
+
+   Aviso: Ligar refrigerante após a parada programada (M08)
+
+
+
+Bloco N425 - Comando M30:
+   Erro: Afastar a ferramenta da peça ao final do programa (G28)
+
+   Erro: Desligar rotação da árvore ao final do programa (M05)
+

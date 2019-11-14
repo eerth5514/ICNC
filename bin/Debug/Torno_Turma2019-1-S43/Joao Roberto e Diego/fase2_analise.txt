@@ -1,0 +1,58 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC fase 2.txt realizado em 7/6/2019 às 23:7:6
+
+
+
+Aviso: Recomenda-se o uso de letras maiúsculas no código
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+
+
+Bloco N20 - Comando T:
+   OK
+
+
+Bloco N165 - Comando T:
+   OK
+
+
+Bloco N230 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N270 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N95 - Comando G71:
+   OK
+
+
+Bloco N210 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+
+
+Bloco N250 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N290 - Comando G76:
+   OK
+
+
+Bloco N315 - Comando M00:
+   Aviso: Ligar árvore após a parada programada (M03)
+
+   Aviso: Ligar refrigerante após a parada programada (M08)
+
+
+
+Bloco N320 - Comando M30:
+   Erro: Afastar a ferramenta da peça ao final do programa (G28)
+

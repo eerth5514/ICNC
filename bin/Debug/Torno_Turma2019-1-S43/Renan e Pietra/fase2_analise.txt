@@ -1,0 +1,42 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC fase2.txt realizado em 7/6/2019 às 23:17:14
+
+
+
+Aviso: Como foi utilizado um dos ciclos de desbaste (G71, G72 ou G73), recomenda-se utilizar o ciclo para acabamento - G70
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+
+
+Bloco N185 - Comando T:
+   OK
+
+
+Bloco N295 - Comando T:
+   OK
+
+
+Bloco N365 - Comando T:
+   OK
+
+
+Bloco N390 - Comando T:
+   OK
+
+
+Bloco N220 - Comando G71:
+   OK
+
+
+Bloco N380 - Comando G75:
+   OK
+
+
+Bloco N405 - Comando G76:
+   OK
+
+
+Bloco N420 - Comando M30:
+   OK

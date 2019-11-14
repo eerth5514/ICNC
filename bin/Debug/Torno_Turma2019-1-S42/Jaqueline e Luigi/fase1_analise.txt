@@ -1,0 +1,74 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC fase1.txt realizado em 7/6/2019 às 23:10:24
+
+
+
+Bloco N590 - Comando G74
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Bloco N640 - Comando G74
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Bloco N690 - Comando G74
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+
+
+Bloco N20 - Comando T:
+   OK
+
+
+Bloco N250 - Comando T:
+   OK
+
+
+Bloco N490 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N560 - Comando T:
+   OK
+
+
+Bloco N610 - Comando T:
+   OK
+
+
+Bloco N660 - Comando T:
+   OK
+
+
+Bloco N710 - Comando T:
+   OK
+
+
+Bloco N120 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N740 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N460 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N530 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N810 - Comando M30:
+   OK

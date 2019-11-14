@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1554470181 source:c:\users\arantes\documents\cnc\icnc\icnc\classes.cpp
+	"classes.h"
+
+1554470181 c:\users\arantes\documents\cnc\icnc\icnc\classes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1556290527 source:c:\users\arantes\documents\cnc\icnc\icnc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<time.h>
+	"classes.h"
+
+1551344376 source:c:\users\arantes\desktop\icnc\icnc\classes.cpp
+	"classes.h"
+
+1551344386 c:\users\arantes\desktop\icnc\icnc\classes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1551344378 source:c:\users\arantes\desktop\icnc\icnc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	"classes.h"
+
+1554470181 source:c:\users\arantes\documents\cnc\icnc (manutenção)\icnc\classes.cpp
+	"classes.h"
+
+1554470181 c:\users\arantes\documents\cnc\icnc (manutenção)\icnc\classes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1559833528 source:c:\users\arantes\documents\cnc\icnc (manutenção)\icnc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<time.h>
+	"classes.h"
+
+1554470181 source:f:\utfpr\icnc (manutenção)\icnc\classes.cpp
+	"classes.h"
+
+1554470181 f:\utfpr\icnc (manutenção)\icnc\classes.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1559920801 source:f:\utfpr\icnc (manutenção)\icnc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<ctype.h>
+	<time.h>
+	"classes.h"
+

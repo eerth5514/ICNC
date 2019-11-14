@@ -1,0 +1,58 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC fase2.txt realizado em 7/6/2019 às 23:10:34
+
+
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+
+
+Bloco N20 - Comando T:
+   OK
+
+
+Bloco N290 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N360 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N460 - Comando T:
+   OK
+
+
+Bloco N160 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N330 - Comando G70:
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N400 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N430 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N490 - Comando G76:
+   OK
+
+
+Bloco N520 - Comando M30:
+   OK

@@ -1,0 +1,66 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC luiz2.txt realizado em 12/6/2019 às 11:16:8
+
+
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+
+
+Bloco N10 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N195 - Comando T:
+   OK
+
+
+Bloco N240 - Comando T:
+   OK
+
+
+Bloco N290 - Comando T:
+   OK
+
+
+Bloco N340 - Comando T:
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+
+
+Bloco N380 - Comando T:
+   OK
+
+
+Bloco N40 - Comando G71:
+   OK
+
+
+Bloco N400 - Comando G71:
+   Aviso: Recomenda-se definir as coordenadas X e Z do ponto de início do ciclo G71 antes da chamada do mesmo
+
+   Aviso: Recomenda-se definir as coordenadas X e Z do ponto de início do ciclo G71 antes da chamada do mesmo
+
+
+
+Bloco N220 - Comando G70:
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N270 - Comando G75:
+   Erro: O ciclo G75 requer o parâmetro P depois da chamada do mesmo
+
+   Erro: O ciclo G75 requer o parâmetro Q depois da chamada do mesmo
+
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N520 - Comando M30:
+   OK

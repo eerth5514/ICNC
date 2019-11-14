@@ -1,0 +1,81 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC o0001.txt realizado em 7/6/2019 às 12:20:22
+
+
+
+Aviso: Recomenda-se o uso de letras maiúsculas no código
+
+Bloco N170 - Comando G81
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Bloco N205 - Comando G75
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Bloco N235 - Comando G76
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Bloco N240 - Comando G76
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Bloco N285 - Comando G74
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Bloco N305 - Comando G74
+    Erro: Não utilizar compensação de raio com este ciclo de usinagem
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N115 - Comando T:
+   Erro: Desligar a compensação do raio da ferramenta antes da troca da ferramenta (G40 antes do G28)
+
+
+
+Bloco N155 - Comando T:
+   Erro: Desligar a compensação do raio da ferramenta antes da troca da ferramenta (G40 antes do G28)
+
+
+
+Bloco N185 - Comando T:
+   OK
+
+
+Bloco N220 - Comando T:
+   OK
+
+
+Bloco N265 - Comando T:
+   OK
+
+
+Bloco N291 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N40 - Comando G71:
+   OK
+
+
+Bloco N145 - Comando G70:
+   Erro: Desligar a compensação do raio da ferramenta antes da troca da ferramenta (G40 antes do G28)
+
+
+
+Bloco N205 - Comando G75:
+   OK
+
+
+Bloco N235 - Comando G76:
+   OK
+
+
+Bloco N320 - Comando M30:
+   Erro: Desligar rotação da árvore ao final do programa (M05)
+

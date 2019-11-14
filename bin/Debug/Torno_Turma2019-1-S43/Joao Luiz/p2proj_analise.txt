@@ -1,0 +1,53 @@
+Inspetor CNC - ICNC
+
+Relatório sobre programa CNC p2proj.txt realizado em 7/6/2019 às 23:15:35
+
+
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Aviso: Como foi utilizado um dos ciclos de desbaste (G71, G72 ou G73), recomenda-se utilizar o ciclo para acabamento - G70
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N160 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N205 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N250 - Comando T:
+   OK
+
+
+Bloco N110 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N260 - Comando G76:
+   OK
