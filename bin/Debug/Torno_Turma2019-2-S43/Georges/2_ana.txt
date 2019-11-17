@@ -1,0 +1,61 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC peca2.txt realizado em 17/11/2019 às 19:19:40
+
+
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N145 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+   Erro: Ferramenta não foi aproximada da peça em velocidade rápida (G00)
+
+
+
+Bloco N165 - Comando T:
+   OK
+
+
+Bloco N215 - Comando T:
+   OK
+
+
+Bloco N70 - Comando G71:
+   OK
+
+
+Bloco N155 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Recomenda-se definir a coordenada Z do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+
+
+Bloco N180 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N200 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N226 - Comando G76:
+   OK
+
+
+Bloco N235 - Comando M30:
+   OK

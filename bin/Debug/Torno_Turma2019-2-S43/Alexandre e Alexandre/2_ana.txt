@@ -1,0 +1,82 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC tornfase2.txt realizado em 17/11/2019 às 19:14:51
+
+
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N25:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N80:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Bloco N80:
+    Aviso: Recomenda-se posicionar o ZP na face acabada da peça (Z0 no início da peça) (Z deve ser positivo depois de G94 até G00)
+
+Aviso: Como foi utilizado um dos ciclos de desbaste (G71, G72 ou G73), recomenda-se utilizar o ciclo para acabamento - G70
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N65 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N95 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N165 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N235 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N260 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N110 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N180 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N250 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N265 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N275 - Comando G76:
+   OK
+
+
+Bloco N290 - Comando M30:
+   OK

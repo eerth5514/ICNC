@@ -1,0 +1,83 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC torno2.txt realizado em 17/11/2019 às 19:6:51
+
+
+
+
+
+Bloco N10 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+
+
+Bloco N75 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N100 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+
+
+Bloco N125 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+
+
+Bloco N150 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+
+
+Bloco N170 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+
+
+Bloco N30 - Comando G71:
+   OK
+
+
+Bloco N115 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+
+
+Bloco N90 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N180 - Comando G76:
+   OK
+
+
+Bloco N200 - Comando M30:
+   OK

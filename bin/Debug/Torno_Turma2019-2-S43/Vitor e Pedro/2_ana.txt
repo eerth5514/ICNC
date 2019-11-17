@@ -1,0 +1,77 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC torfase2.txt realizado em 17/11/2019 às 19:23:34
+
+
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: Recomenda-se utilizar ciclos de desbaste (G71 ou G72 ou G73)
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N260 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N315 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N315 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N345 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N370 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N400 - Comando T:
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N275 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N290 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N305 - Comando G75:
+   Aviso: Certifique-se que o F para usinagem do canal foi devidamente informado no ciclo G75
+
+
+
+Bloco N415 - Comando G76:
+   OK

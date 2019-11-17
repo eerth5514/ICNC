@@ -1,0 +1,45 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC fase3.txt realizado em 17/11/2019 às 19:16:39
+
+
+
+Bloco N110 - Comando G74
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: Recomenda-se utilizar ciclos de desbaste (G71 ou G72 ou G73)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N20 - Comando T:
+   OK
+
+
+Bloco N80 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N130 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+
+
+Bloco N190 - Comando T:
+   OK
+
+
+Bloco N230 - Comando G76:
+   Erro: O ciclo G76 requer o parâmetro Q depois da chamada do mesmo
+
+   Erro: O ciclo G76 requer o parâmetro R depois da chamada do mesmo
+
+   Erro: O ciclo G76 requer o parâmetro G76 depois da chamada do mesmo
+
+   Erro: O ciclo G76 requer o parâmetro Q depois da chamada do mesmo
+

@@ -1,0 +1,82 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC peca1.txt realizado em 17/11/2019 às 19:19:32
+
+
+
+Bloco N105 - Comando G81 e S80
+    Aviso: Usinagem sendo realizada com rotação muito baixa - Verificar!
+
+Bloco N105 - Comando G81
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Bloco N150 - Comando G81 e S80
+    Aviso: Usinagem sendo realizada com rotação muito baixa - Verificar!
+
+Bloco N150 - Comando G81
+  Erro: A usinagem está sendo realizada com a rotação máxima da máquina (Use G97 não G96)
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N60 - Comando T:
+   OK
+
+
+Bloco N90 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N135 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N180 - Comando T:
+   OK
+
+
+Bloco N260 - Comando T:
+   OK
+
+
+Bloco N315 - Comando T:
+   Erro: Ferramenta não foi aproximada da peça em velocidade rápida (G00)
+
+
+
+Bloco N340 - Comando T:
+   OK
+
+
+Bloco N200 - Comando G71:
+   OK
+
+
+Bloco N280 - Comando G71:
+   OK
+
+
+Bloco N250 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+
+
+Bloco N330 - Comando G70:
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Recomenda-se definir a coordenada Z do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+
+
+Bloco N355 - Comando G75:
+   OK

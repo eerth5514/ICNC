@@ -1,0 +1,40 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC 0004.txt realizado em 17/11/2019 às 19:22:9
+
+
+
+Aviso: Recomenda-se utilizar ciclos de desbaste (G71 ou G72 ou G73)
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+
+
+Bloco N15 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N220 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+
+
+Bloco N245 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N290 - Comando T:
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N230 - Comando G76:
+   Aviso: Recomenda-se definir as coordenadas X do ponto de início do ciclo G76 antes da chamada do mesmo e afastadas o suficiente, principalmente no eixo Z
+
+
+
+Bloco N475 - Comando M30:
+   OK

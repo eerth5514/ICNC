@@ -1,0 +1,121 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC fase2.txt realizado em 17/11/2019 às 19:10:29
+
+
+
+Aviso: É altamente recomendado indicar qual ZP será utilizado em cada fase do processo (G54 ou G55 ou G56 ou G57)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+
+
+Bloco N170 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N200 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+
+
+Bloco N305 - Comando T:
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N335 - Comando T:
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N381 - Comando T:
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N385 - Comando T:
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N415 - Comando T:
+   Aviso: Usinagem sendo realizada com avanço muito baixo - Verificar! (G98 e F)
+
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N70 - Comando G71:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta nos ciclos de desbaste com perfil - Verificar (G41 OU G42)
+
+
+
+Bloco N185 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N383 - Comando G70:
+   Aviso: Recomenda-se utilizar compensação do raio da ferramenta no ciclo de acabamento com perfil  - Verificar (G41 ou G42)
+
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Recomenda-se definir a coordenada Z do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Certifique-se que o F de acabamento foi programado no ciclo de desbaste, caso contrário defina um F de acabamento na chamada do G70
+
+
+
+Bloco N430 - Comando G76:
+   Erro: Avanço na abertura de rosca deve ser igual ao passo da rosca (deve-se usar G99, não G98)
+

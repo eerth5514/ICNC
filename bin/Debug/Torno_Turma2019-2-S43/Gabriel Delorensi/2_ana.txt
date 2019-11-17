@@ -1,0 +1,133 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC fase2.txt realizado em 17/11/2019 às 19:18:0
+
+
+
+
+
+Bloco N400 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N440 - Comando T:
+   Aviso: Usinagem sendo realizada com Vc elevada - Verificar! (G96 e S)
+
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N460 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N540 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N560 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N580 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N605 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N630 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N700 - Comando T:
+    Erro: Não foi definido se o avanço será em mm/min ou mm/rot (G98 ou G99)
+
+   Erro: Não foi definido se a rotação será constante [rpm] ou variável [Vc constante - m/min] (G96 ou G97)
+
+    Erro: Não foi definido o valor da rotação ou da Vc para esta ferramenta (S)
+
+   Erro: Não foi ligado o motor da árvore (rotação) para esta ferramenta (M03 ou M04)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+
+
+Bloco N475 - Comando G71:
+   Erro: O ciclo G71 requer o parâmetro W depois da chamada do mesmo
+
+
+
+Bloco N550 - Comando G70:
+   Aviso: Recomenda-se definir a coordenada X do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+   Aviso: Recomenda-se definir a coordenada Z do ponto de início do ciclo G70 antes da chamada do mesmo e, de preferência, que sejam iguais as do ciclo de desbaste
+
+
+
+Bloco N570 - Comando G75:
+   OK
+
+
+Bloco N595 - Comando G76:
+   Erro: O ciclo G76 requer o parâmetro R depois da chamada do mesmo
+
+   Erro: O ciclo G76 requer o parâmetro G76 depois da chamada do mesmo
+
+
+
+Bloco N775 - Comando M30:
+   OK

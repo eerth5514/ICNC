@@ -1,0 +1,49 @@
+UTFPR - NUFER
+Inspetor CNC - ICNC
+
+Relatório  de inspeção do programa CNC f1.txt realizado em 17/11/2019 às 19:20:37
+
+
+
+Aviso: Recomenda-se utilizar ciclo de faceamento (G94)
+
+Aviso: Recomenda-se utilizar ciclos de desbaste (G71 ou G72 ou G73)
+
+Aviso: Se houver furação no programa recomenda-se utilizar ciclos de furação, etc. (G81 ou G74 ou G83)
+
+Erro: Necessário encerrar o programa ao seu final (M02 ou M30)
+
+
+
+Bloco N10 - Comando T:
+   OK
+
+
+Bloco N120 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+   Erro: Não foi ligado o motor da torre para a troca da ferramenta (M06)
+
+   Aviso: Usinagem sendo realizada sem lubri-refrigerante (M08)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N170 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N195 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
+   Erro: Não foi definido o valor do avanço para esta ferramenta (F)
+
+
+
+Bloco N215 - Comando T:
+   Erro: Afastar a torre da peça antes da troca de ferramenta (G28)
+
